@@ -1,19 +1,17 @@
-# xdclass_front
+xd_class 是一个在线教育平台
 
-## Project setup
-```
-npm install
-```
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+开发环境 : 
+IDEA 
+DataGrip 
+WebStorm
+MySQL 8.0.26 
+vue2.6
+springboot 2.0
 
-### Compiles and minifies for production
-```
-npm run build
-```
+xd_class 是一个在线教育平台，此项目包含了市面上的教育平台应有的功能，如注册，登陆，下单，等等
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+
+令人亮眼的技术:
+密码使用md5加密
+使用了JWT做登陆校验
